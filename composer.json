@@ -1,5 +1,5 @@
 {
-    "name": "cabrillo/bit-db-ession",
+    "name": "cabrillo/bit-db-session",
     "description": "Zend Framework 2 module for storing sessions in database.",
     "type": "library",
     "license": "New BSD License",
