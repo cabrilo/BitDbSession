@@ -10,6 +10,10 @@ Installation
 
 Clone into `./vendor/`.
 
+### Via Composer
+
+`"require": { "cabrillo/bit-db-session": "dev-master" }`
+
 ### Post intallation
 
 1. Enable the module in your `application.config.php` file:

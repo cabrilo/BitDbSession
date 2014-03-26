@@ -1,0 +1,33 @@
+{
+    "name": "cabrillo/bit-db-session",
+    "description": "Zend Framework 2 module for storing sessions in database.",
+    "type": "library",
+    "license": "New BSD License",
+    "keywords": [
+        "zf2",
+        "session",
+        "db"
+    ],
+    "homepage": "https://github.com/cabrilo/BitDbSession",
+    "authors": [
+        {
+            "name": "Dejan Cabrilo",
+            "email": "dcabrilo@bitspan.rs",
+            "homepage": "https://github.com/cabrilo/BitDbSession"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zend-session": "~2.1",
+        "zendframework/zend-db": "~2.1",
+        "zendframework/zend-mvc": "~2.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "BitDbSession": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
