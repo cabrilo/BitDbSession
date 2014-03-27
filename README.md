@@ -12,7 +12,7 @@ Clone into `./vendor/`.
 
 ### Via Composer
 
-`"require": { "cabrillo/bit-db-session": "dev-master" }`
+`"require": { "cabrilo/bit-db-session": "dev-master" }`
 
 ### Post intallation
 
