@@ -16,7 +16,7 @@ Clone into `./vendor/`.
 
 ### Post intallation
 
-1. Enable the module in your `application.config.php` file:
+#### Enable the module in your `application.config.php` file:
 
 ```php
 <?php
@@ -29,7 +29,7 @@ return array(
 );
 ```
 
-2. Create session table in your database:
+#### Create session table in your database:
 
 ```SQL
 CREATE TABLE `session` (
