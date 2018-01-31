@@ -2,7 +2,7 @@
     "name": "cabrilo/bit-db-session",
     "description": "Zend Framework 2 module for storing sessions in database.",
     "type": "library",
-    "license": "New BSD License",
+    "license": "BSD-3-Clause",
     "keywords": [
         "zf2",
         "session",
